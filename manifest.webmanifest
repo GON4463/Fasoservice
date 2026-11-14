@@ -1,0 +1,10 @@
+{
+  "name": "FasoServices",
+  "short_name": "FasoServices",
+  "description": "Trouvez un professionnel à Koudougou",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f4",
+  "theme_color": "#145c3b",
+  "icons": []
+}
